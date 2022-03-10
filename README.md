@@ -31,7 +31,7 @@
 <div align="center" display="inline-block">
 <a href="https://github.com/spylima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spylima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spylima&layout=default&langs_count=7&theme=tokyonight&custom_title=Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spylima&layout=default&langs_count=7&theme=tokyonight&custom_title=Languages&exclude_repo=dwm"/>
 </a>
 </div>
 
