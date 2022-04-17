@@ -1,46 +1,61 @@
-<p align="center">
-  <samp align="center">
-    Hi, i'm spy.
-    <br>I'm a brazilian high school student<br>
-    
-----
-    
-  </samp>
-</p>
-  
+<center>
 
+# **Welcome, dragonborn!**
 
-<samp>
-  <p align="center"> Knowledge: </p>
-</samp>
+<a href="https://elderscrolls.fandom.com/wiki/Haafingar">
+<img src="./banner.png" width="120" align="right">
+</a>
 
-<div align="center" display="inline-block">
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="auto" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+</center>
 
-###
+## **About Me:**
 
-<div align="center" display="inline-block">
+- 🌎 **Made in Brazil**
+
+- 📨 **Skills on front-end an teamwork**
+
+- 📚 **High School Student | Game Design**
+
+- 👓 **Currently focusing on learning back-end**
+
+- 💻 **I have preference in linux for its practicality**
+
+- 🍿 **I don't play too many games, so I have a preference to spend my time reading about projects on github**
+
+---
+
+## **My status:**
+
+<div style="display:inline-block;">
 <a href="https://github.com/spylima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spylima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spylima&layout=default&langs_count=7&theme=tokyonight&custom_title=Languages&exclude_repo=dwm"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=spylima&exclude_repo=dwm&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spylima&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
 </a>
 </div>
 
-----
+### Knowledge:
 
-<div display="inline-block">
-  <a href=""><img align="left"  src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/spy.lima/"><img align="left" src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://t.me/spylima"><img align="left" src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="archlinux.org"><img align="right" src="https://img.shields.io/badge/Arch_Linux-1A1B26?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-  <a href="https://neovim.io/"><img align="right" src="https://img.shields.io/badge/NeoVim-1A1B26?&style=for-the-badge&logo=neovim&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/dz5puiex9of5ayx6qks18u083"><img align="right" src="https://img.shields.io/badge/Spotify-1A1B26?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<div style="display: inline_block">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+---
+
+### Found Me:
+
+<div style="display: inline_block">
+<a href="https://www.instagram.com/spy.lima/" > <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://github.com/spylima" > <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="#" > <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://open.spotify.com/user/dz5puiex9of5ayx6qks18u083" > <img src="https://img.shields.io/badge/Spotify-1E1E2E?&style=for-the-badge&logo=spotify&logoColor=white"> </a>
+<a href="https://www.youtube.com/channel/UCGrWk1A84WpbTV52NzQLeRA" > <img src="https://img.shields.io/badge/YouTube-1E1E2E?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+</div>
+  
+  
